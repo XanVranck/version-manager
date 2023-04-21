@@ -1,6 +1,6 @@
 # version manager
 In this TDD kata we are going to mimic a **software versioning system**. 
-You have to implement a VersionManager class step by step. Important during this kata is that you have te **write the tests first**. Always start as simple as possible.
+You have to implement a VersionManager class step by step. Always start as simple as possible.
 
 VERSION MANAGER SETUP
 ---------------------
